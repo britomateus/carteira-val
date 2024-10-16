@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/carteira-val/static/css/main.3fc51ca5.css",
+    "main.js": "/carteira-val/static/js/main.0344feb8.js",
+    "static/js/787.7adf3722.chunk.js": "/carteira-val/static/js/787.7adf3722.chunk.js",
+    "static/media/une.png": "/carteira-val/static/media/une.6450363de66d34a33e0e.png",
+    "static/media/foto-val.jpeg": "/carteira-val/static/media/foto-val.a9f53656e70e89d95879.jpeg",
+    "static/media/dne.png": "/carteira-val/static/media/dne.4e21cf9e93f5f731e585.png",
+    "index.html": "/carteira-val/index.html",
+    "main.3fc51ca5.css.map": "/carteira-val/static/css/main.3fc51ca5.css.map",
+    "main.0344feb8.js.map": "/carteira-val/static/js/main.0344feb8.js.map",
+    "787.7adf3722.chunk.js.map": "/carteira-val/static/js/787.7adf3722.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fc51ca5.css",
+    "static/js/main.0344feb8.js"
+  ]
+}
